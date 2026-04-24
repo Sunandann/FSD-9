@@ -6,12 +6,7 @@ Backend: Spring Boot RBAC APIs (Experiment 7)
 Frontend: React + Bootstrap + Material UI
 Auth mode: Session-based UI using sessionStorage
 Roles tested: USER, ADMIN
-Screenshot Index
-No.	Screenshot File	What It Demonstrates
-1	login.png	Login screen UI for username/password authentication
-2	userdashboard.png	USER role dashboard and user-level access
-3	admindashboard.png	ADMIN role dashboard and admin-level access
-4	apiresponse.png	API response validation for role-based endpoint behavior
+
 
 1. Login UI
 Shows the RBAC login page where users enter credentials.
